@@ -71,11 +71,6 @@ Beyond code, I:
   <a href="https://t.me/Fete64"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://discord.com/users/fetehadin_12085"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fetehadin&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
 
 <!-- Footer -->
 <p align="center">
