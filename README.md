@@ -34,12 +34,12 @@ I’m a backend developer and AI enthusiast obsessed with solving real-world pro
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fetehadinnegash&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fetehadinnegash&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fetehadin&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetehadinnegash&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetehadin&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
