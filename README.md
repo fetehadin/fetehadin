@@ -9,13 +9,12 @@
 
 ## 👋 Hi, I’m Fetehadin  
 
-**Backend Developer | Python, JavaScript, Django, PostgreSQL | INSA Talent student & Ethiopian AI Institute Intern | Passionate About Problem-Solving & Scalable System Design**
+**Backend Developer | Python, JavaScript, Django, PostgreSQL | INSA Cyber Talent Graduate & Ethiopian AI Institute Intern | Passionate About Problem-Solving & Scalable System Design**
 
 I’m a backend developer and AI enthusiast obsessed with solving real-world problems through code. I live for the thrill of designing efficient APIs, tackling algorithmic challenges, and building systems that make life easier.  
 
 - 🔭 **Current Work:** Data Encoder at **Ethiopian AI Institute**  
-- 🎓 **Education:** B.Sc. Civil & Environmental Engineering at Addis Ababa University, pursuing Software Engineering at HilCoE University  
-- 🏆 **Achievements:**  
+- 🎓 **Education:**B.Sc. in Software Engineering (2nd Year) at **HilCoE University College**, and B.Sc. in Civil & Environmental Engineering (4th Year) at **Addis Ababa University**
   - Top performer at **Nexus Bootcamp (DSA)** → solved algorithmic problems  
   - Built **EduConnect backend** that cut resource access time by 30% for students  
   - Contributed to **national AI project** powering the Ethiopian National Dialogue  
