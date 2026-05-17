@@ -7,22 +7,21 @@
 
 ---
 
-## 👋 Hi, I’m Fetehadin  
+## About Me
 
-**Backend Developer | Python, JavaScript, Django, PostgreSQL | INSA Cyber Talent Graduate & Ethiopian AI Institute Intern | Passionate About Problem-Solving & Scalable System Design**
+FullStack Developer | AI Enthusiast | Problem Solver
 
-I’m a backend developer and AI enthusiast obsessed with solving real-world problems through code. I live for the thrill of designing efficient APIs, tackling algorithmic challenges, and building systems that make life easier.  
+I am a FullStack Developer focused on building scalable systems, designing efficient APIs, and solving real-world problems through code. I enjoy algorithmic thinking and system design, with a strong interest in impactful software solutions.
 
-- 🔭 **Current Work:** Data Encoder at **Ethiopian AI Institute**  
-- 🎓 **Education:** B.Sc. in Software Engineering (2nd Year) at **HilCoE University College**, and B.Sc. in Civil & Environmental Engineering (4th Year) at **Addis Ababa University**
-  - Top performer at **Nexus Bootcamp (DSA)** → solved algorithmic problems  
-  - Built **EduConnect backend** that cut resource access time by 30% for students  
-  - Contributed to **national AI project** powering the Ethiopian National Dialogue  
-- 💡 **Philosophy:** From stable physical designs → scalable digital systems  
+- Education: B.Sc. in Software Engineering at HilCoE University College, and B.Sc. in Civil & Environmental Engineering at Addis Ababa University  
+- Top performer at Nexus Bootcamp (Data Structures & Algorithms)  
+- Built AquaERP, an enterprise ERP system for water and soft drink distribution companies  
+- Contributed to a national AI initiative supporting the Ethiopian National Dialogue  
+- Focus: scalable backend systems, clean architecture, and applied AI  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgresql,js,react,html,css,git,github,vscode,linux" />
@@ -30,7 +29,7 @@ I’m a backend developer and AI enthusiast obsessed with solving real-world pro
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=tokyonight" height="160"/>
@@ -43,24 +42,26 @@ I’m a backend developer and AI enthusiast obsessed with solving real-world pro
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects
 
-- **EduConnect** → Backend system for students with Django + PostgreSQL [🔗](#)  
-- **Ethiopia AI Institute (Data Encoder)** → Data curation for national AI projects  
-- **Library Management System (ALX)** → CRUD operations with Django REST  
-
----
-
-## 🧑‍💻 About Me  
-
-Peers call me: **honest, persistent, disciplined, fast learner**.  
-Beyond code, I:  
-- 📚 Read psychological & self-development books  
-- 💭 Believe in trust-driven teamwork  
+- AquaERP — Enterprise ERP system for water and soft drink distribution companies  
+- EduConnect — Backend system built with Django and PostgreSQL  
+- Ethiopia AI Institute — Data curation and support for national AI initiatives  
 
 ---
 
-## 🤝 Let’s Connect!  
+## About Me (Beyond Code)
+
+Peers describe me as disciplined, persistent, and a fast learner.
+
+Outside of development:
+- I read psychology and self-improvement books  
+- I enjoy deep thinking about systems, people, and technology  
+- I value trust-driven collaboration and long-term impact  
+
+---
+
+## Contact
 
 <p align="center">
   <a href="mailto:fetehadinnegash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -70,6 +71,8 @@ Beyond code, I:
   <a href="https://t.me/Fete64"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://discord.com/users/fetehadin_12085"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+
+---
 
 <!-- Footer -->
 <p align="center">
