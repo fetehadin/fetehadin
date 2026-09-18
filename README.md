@@ -1,55 +1,86 @@
-<div align="center">
-
-# Fetehadin Negash
-**Software Engineer & Systems Architect**
-
-<a href="https://fetehadin.pro.et">fetehadin.pro.et</a> &nbsp;&middot;&nbsp;
-<a href="mailto:fetehadinnegash@gmail.com">fetehadinnegash@gmail.com</a> &nbsp;&middot;&nbsp;
-<a href="https://www.linkedin.com/in/fetehadin/">LinkedIn</a> &nbsp;&middot;&nbsp;
-<a href="https://x.com/fetebuilds">X</a> &nbsp;&middot;&nbsp;
-<a href="https://t.me/fetescript">Telegram</a>
-
-<br />
-
-*I specialize in backend architecture, scalable system design, and high-performance applications. By bridging my foundational background in civil engineering with computer science, I approach software development with a rigorous focus on structural integrity, modular logic, and long-term maintainability.*
-
-</div>
-
-<br />
-
-### GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fetehadin&theme=transparent&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetehadin&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Fetehadin%20Negash&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 </p>
 
-<br />
+<div align="center">
+  <br>
+  <b>Mid-Level Full-Stack Engineer | Systems Architect | AI Enthusiast</b>
+  <br><br>
+  <a href="https://fetehadin.pro.et"><img src="https://img.shields.io/badge/Portfolio-fetehadin.pro.et-00f2fe?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:fetehadinnegash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fetehadin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/fetebuilds"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://t.me/fetescript"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</div>
 
-### Featured Engineering Work
+<br><br>
 
-**[TajStore Management System](https://fetehadin.pro.et/#projects)**
-A full-stack mobile platform engineered to streamline wholesale distribution and field sales operations. It provides dedicated portals for administrators and sales reps to manage warehouse checkouts, track live debt ledgers, and coordinate supplier batches. 
-* **Architecture:** React Native, Expo, TypeScript
-* **State & Sync:** TanStack Query, Zustand
-* **Features:** Biometric security, real-time data synchronization, and instant OTA (Over-The-Air) deployments via EAS.
+ARCHITECTING DIGITAL INFRASTRUCTURE:
 
-**[Smart Duplicate Detector](https://github.com/fetehadin/smart-duplicate-detector)**
-An AST-powered static analysis CLI tool globally distributed via NPM (`smart-duplicate-detector v1.0.0`) that scans Java codebases to detect duplicated business logic. 
-* **Architecture:** Java 17, Node.js, NPM, Maven
-* **Core Logic:** Minimizes false positives by utilizing a custom Weighted Levenshtein algorithm and JavaParser to compare structural logic rather than raw text. 
-* **Interface:** Features a modern FlatLaf Java Swing GUI.
+From designing physical structures in Civil Engineering to architecting scalable digital ecosystems in Computer Science, my engineering journey is driven by a rigorous focus on structural integrity. Currently advancing my CS degree at HilCoE, I treat code exactly like physical infrastructure: built for heavy load management, modular logic, and long-term maintainability. I thrive at the intersection of robust backend systems, dynamic user interfaces, and applied Artificial Intelligence.
 
-**[EduConnect Educational Platform](https://educonnect-frontend-opal.vercel.app)**
-A comprehensive, student-centered learning hub designed to empower students across Ethiopia with secure API integrations and a vibrant community interface.
-* **Architecture:** Python, Django, PostgreSQL, Next.js, Tailwind CSS
-* **Core Focus:** Scalable backend architecture and robust relational database modeling.
+<br>
 
-<br />
+TECHNICAL ARSENAL:
 
-### Technical Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,nodejs,react,nextjs,tailwind,django,express,postgresql,docker,linux,ubuntu,git,vscode&perline=8" alt="Tech Stack" />
+</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,nodejs,django,postgresql,docker,linux,git" alt="Technical Stack" />
+<br>
+
+GITHUB METRICS:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fetehadin&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetehadin&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<br>
+
+FEATURED ENGINEERING WORK:
+
+<table>
+  <tr>
+    <td width="30%"><b>Project</b></td>
+    <td width="45%"><b>System Overview</b></td>
+    <td width="25%"><b>Core Stack</b></td>
+  </tr>
+  <tr>
+    <td><b>Smart Duplicate Detector</b><br><i>NPM CLI Tool</i></td>
+    <td>An AST-powered static analysis CLI tool distributed globally via NPM. Analyzes structural code logic using a custom Weighted Levenshtein algorithm with a FlatLaf GUI to minimize false positives.</td>
+    <td>Java 17, Node.js, NPM, Maven</td>
+  </tr>
+  <tr>
+    <td><b>TajStore Management</b><br><i>Mobile ERP Platform</i></td>
+    <td>Cross-platform wholesale distribution mobile app featuring live debt ledgers, warehouse checkouts, biometric security, and real-time state synchronization via EAS OTA updates.</td>
+    <td>React Native, Expo, Zustand, TanStack</td>
+  </tr>
+  <tr>
+    <td><b>EduConnect Platform</b><br><i>Full-Stack Web Portal</i></td>
+    <td>Comprehensive learning hub engineered with a scalable backend architecture, robust relational database modeling, role-based access control, and secure API integrations.</td>
+    <td>Python, Django, PostgreSQL, Next.js</td>
+  </tr>
+  <tr>
+    <td><b>CV-Formatter</b><br><i>Web Application</i></td>
+    <td>Open-source web application for crafting minimalist editorial resumes, featuring a split-pane workspace and an auto-scaling A4 preview canvas.</td>
+    <td>React, Base UI, Tailwind CSS, Vercel</td>
+  </tr>
+</table>
+
+<br>
+
+BEYOND THE TERMINAL:
+
+- <b>Reading:</b> Deep-diving into psychology, self-improvement, and system design literature.
+- <b>Listening:</b> Engaging with technical engineering and industry leadership podcasts.
+- <b>Designing:</b> Crafting digital visual designs, minimalist editorial portraits, and event stage graphics.
+- <b>Connecting:</b> Building trust-driven collaborations and contributing to high-impact open-source initiatives.
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" alt="Footer Banner" />
 </p>
