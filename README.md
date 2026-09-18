@@ -17,6 +17,16 @@
 
 <br />
 
+### GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fetehadin&theme=transparent&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetehadin&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+<br />
+
 ### Featured Engineering Work
 
 **[TajStore Management System](https://fetehadin.pro.et/#projects)**
@@ -36,27 +46,10 @@ A comprehensive, student-centered learning hub designed to empower students acro
 * **Architecture:** Python, Django, PostgreSQL, Next.js, Tailwind CSS
 * **Core Focus:** Scalable backend architecture and robust relational database modeling.
 
-### Additional Technical Projects
-
-* **[CV Formatter](https://github.com/fetehadin/CV-Formatter):** A web application for crafting and formatting professional resumes.
-* **[Schedule Tracker](https://github.com/fetehadin/scheduleTracker):** A time and event management tracking tool.
-* **[Event Booking System](https://github.com/fetehadin/Event-Booking-System):** A platform for reserving and managing event spaces.
-* **[BookWise](https://github.com/fetehadin/BookWise_frontend):** A digital library and reading management frontend.
-* **[Etch-a-Sketch](https://github.com/fetehadin/Etch-a-Sketch-project):** A browser-based digital sketching grid.
-
 <br />
 
 ### Technical Arsenal
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,nodejs,django,postgresql,docker,linux,git" alt="Technical Stack" />
-</p>
-
-<br />
-
-### GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetehadin&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </p>
