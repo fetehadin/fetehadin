@@ -1,80 +1,62 @@
-<!-- Profile README for Fetehadin Negash -->
+<div align="center">
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Fetehadin%20Negash&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# Fetehadin Negash
+**Software Engineer & Systems Architect**
+
+<a href="https://fetehadin.pro.et">fetehadin.pro.et</a> &nbsp;&middot;&nbsp;
+<a href="mailto:fetehadinnegash@gmail.com">fetehadinnegash@gmail.com</a> &nbsp;&middot;&nbsp;
+<a href="https://www.linkedin.com/in/fetehadin/">LinkedIn</a> &nbsp;&middot;&nbsp;
+<a href="https://x.com/fetebuilds">X</a> &nbsp;&middot;&nbsp;
+<a href="https://t.me/fetescript">Telegram</a>
+
+<br />
+
+*I specialize in backend architecture, scalable system design, and high-performance applications. By bridging my foundational background in civil engineering with computer science, I approach software development with a rigorous focus on structural integrity, modular logic, and long-term maintainability.*
+
+</div>
+
+<br />
+
+### Featured Engineering Work
+
+**[TajStore Management System](https://fetehadin.pro.et/#projects)**
+A full-stack mobile platform engineered to streamline wholesale distribution and field sales operations. It provides dedicated portals for administrators and sales reps to manage warehouse checkouts, track live debt ledgers, and coordinate supplier batches. 
+* **Architecture:** React Native, Expo, TypeScript
+* **State & Sync:** TanStack Query, Zustand
+* **Features:** Biometric security, real-time data synchronization, and instant OTA (Over-The-Air) deployments via EAS.
+
+**[Smart Duplicate Detector](https://github.com/fetehadin/smart-duplicate-detector)**
+An AST-powered static analysis CLI tool globally distributed via NPM (`smart-duplicate-detector v1.0.0`) that scans Java codebases to detect duplicated business logic. 
+* **Architecture:** Java 17, Node.js, NPM, Maven
+* **Core Logic:** Minimizes false positives by utilizing a custom Weighted Levenshtein algorithm and JavaParser to compare structural logic rather than raw text. 
+* **Interface:** Features a modern FlatLaf Java Swing GUI.
+
+**[EduConnect Educational Platform](https://educonnect-frontend-opal.vercel.app)**
+A comprehensive, student-centered learning hub designed to empower students across Ethiopia with secure API integrations and a vibrant community interface.
+* **Architecture:** Python, Django, PostgreSQL, Next.js, Tailwind CSS
+* **Core Focus:** Scalable backend architecture and robust relational database modeling.
+
+### Additional Technical Projects
+
+* **[CV Formatter](https://github.com/fetehadin/CV-Formatter):** A web application for crafting and formatting professional resumes.
+* **[Schedule Tracker](https://github.com/fetehadin/scheduleTracker):** A time and event management tracking tool.
+* **[Event Booking System](https://github.com/fetehadin/Event-Booking-System):** A platform for reserving and managing event spaces.
+* **[BookWise](https://github.com/fetehadin/BookWise_frontend):** A digital library and reading management frontend.
+* **[Etch-a-Sketch](https://github.com/fetehadin/Etch-a-Sketch-project):** A browser-based digital sketching grid.
+
+<br />
+
+### Technical Arsenal
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,nodejs,django,postgresql,docker,linux,git" alt="Technical Stack" />
 </p>
 
----
+<br />
 
-## 👨‍💻 About Me
+### GitHub Analytics
 
-**Mid Level Full-Stack Engineer | AI Enthusiast | Open-Source Contributor**
-
-I am a Full-Stack Software Developer specializing in building scalable web applications, cross-platform mobile solutions, and rigorous backend architectures. With a background transitioning from Civil Engineering into Computer Science at HilCoE, I bring strong analytical problem-solving skills to modern software development.
-
-- 🎓 **Education:** Studying Computer Science at HilCoE University College (B.Sc. in Civil & Environmental Engineering, AAU)  
-- 📜 **Certifications:** ALX Back-End Web Development & AI Career Essentials  
-- 💼 **Current Focus:** Freelance full-stack development and serving as a Mid Level Full-Stack Engineer Expert at AfterQuery  
-- 🛠️ **Past Experience:** Former Data Engineer at the Ethiopian AI Institute (4-month data curation and NLP role)
-- 🎯 **Passions:** Scalable backend systems (Node.js/Django/Java), clean architecture, AST-based tooling, and applied AI.
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,nodejs,react,nextjs,tailwind,django,express,postgresql,docker,linux,git,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fetehadin&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetehadin&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🏆 Featured Projects & Contributions
-
-- **[Smart Duplicate Detector](https://github.com/fetehadin/smart-duplicate-detector):** An AST-powered static analysis CLI tool built with Java 17 and distributed globally via NPM. Analyzes structural code logic using a custom Weighted Levenshtein algorithm with a FlatLaf dark-mode GUI.
-- **CV-Formatter:** An open-source web application for crafting minimalist editorial resumes, featuring a split-pane workspace and an auto-scaling A4 preview canvas built with React and Base UI.
-- **EduConnect:** A comprehensive backend learning platform engineered with Django REST Framework and PostgreSQL, deployed on Render.
-- **TajStore Management System:** A cross-platform wholesale distribution mobile app built with React Native and Expo Router, featuring real-time state management via TanStack Query and Zustand.
-- **AquaERP:** Enterprise ERP system for water and soft drink distribution companies.
-
----
-
-## 🧠 Beyond the Code
-
-Peers describe me as disciplined, persistent, and a fast learner. Outside of development:
-- 📚 I actively read psychology, self-improvement, and system design literature.
-- 🎙️ I follow industry leadership and technical engineering podcasts.
-- 🎨 I enjoy creating digital visual designs, minimalist portraits, and event graphics.
-- 🤝 I value trust-driven collaboration, open-source building, and long-term impact.
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:fetehadinnegash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/fetehadin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/fetebuilds"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://t.me/Fete64"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://discord.com/users/fetehadin_12085"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetehadin&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </p>
