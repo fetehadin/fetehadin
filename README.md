@@ -20,7 +20,7 @@
 
 ## `$ whoami`
 
-​```python
+```python
 class Fetehadin:
     role       = "Full-Stack Software Engineer"
     location   = "Addis Ababa, Ethiopia (GMT+3 · overlaps EU hours & US mornings)"
@@ -33,11 +33,11 @@ class Fetehadin:
 
     def philosophy(self):
         return "Understand the problem → design the data → ship small → document everything."
-​```
+```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <b>Languages</b><br/>
@@ -65,7 +65,7 @@ class Fetehadin:
 </p>
 
 <details>
-<summary><b>📋 Full skills list</b></summary>
+<summary><b>Full skills list</b></summary>
 <br/>
 
 | Area | Skills |
@@ -81,12 +81,12 @@ class Fetehadin:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧵 <a href="https://voxlace.fetehadin.com">Voxlace</a></h3>
+      <h3><a href="https://voxlace.fetehadin.com">Voxlace</a></h3>
       <i>Your voice, woven across every platform.</i>
       <p>Learns how you write from your own past posts and daily notes, then drafts posts for X, LinkedIn and Telegram that sound like you. It never posts without you.</p>
       <ul>
@@ -104,7 +104,7 @@ class Fetehadin:
       <sub>Co-founded with <a href="https://github.com/Jennah198">@Jennah198</a> · built in public</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>💌 <a href="https://hidl.fetehadin.com">hidl</a></h3>
+      <h3><a href="https://hidl.fetehadin.com">hidl</a></h3>
       <i>Letters to future you, countdowns, and a year in pictures.</i>
       <p>A private journal with time-locked letters to your future self, countdowns to the days that matter, and a daily photo & video calendar.</p>
       <ul>
@@ -118,12 +118,12 @@ class Fetehadin:
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <sub>Built with a team</sub>
+      <sub>Built with <a href="https://github.com/Jennah198">@Jennah198</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://cv.fetehadin.com">Honest CV</a></h3>
+      <h3><a href="https://cv.fetehadin.com">Honest CV</a></h3>
       <i>ATS-friendly CVs, tailored to each job — without inventing anything.</i>
       <p>A free, private CV builder that runs entirely in your browser. No account, no server.</p>
       <ul>
@@ -139,7 +139,7 @@ class Fetehadin:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://smart-duplicate-detector.vercel.app">Smart Duplicate Detector</a></h3>
+      <h3><a href="https://smart-duplicate-detector.vercel.app">Smart Duplicate Detector</a></h3>
       <i>Static analysis, published on npm.</i>
       <p>Finds copy-pasted business logic in Java projects, even after variables are renamed. CLI and desktop app.</p>
       <ul>
@@ -155,7 +155,7 @@ class Fetehadin:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 TajStore</h3>
+      <h3>TajStore</h3>
       <i>Used by a real business.</i>
       <p>The app a wholesale business runs its stock, sales reps' credit and payment approvals on. Solo build, from requirements to deployment (191 commits).</p>
       <p>
@@ -167,7 +167,7 @@ class Fetehadin:
       <sub>Private business app</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://educonnect-frontend-opal.vercel.app">EduConnect</a></h3>
+      <h3><a href="https://educonnect-frontend-opal.vercel.app">EduConnect</a></h3>
       <i>Team lead · INSA Summer Tech Camp.</i>
       <p>A learning hub where students across Ethiopia find resources and each other. I led the team and architected the backend.</p>
       <p>
@@ -180,12 +180,12 @@ class Fetehadin:
 </table>
 
 <p align="center">
-  <a href="https://fetehadin.com/#work"><b>➡️ Full case studies on fetehadin.com</b></a>
+  <a href="https://fetehadin.com/#work"><b>Full case studies on fetehadin.com →</b></a>
 </p>
 
 ---
 
-## ⚙️ How I Work
+## How I Work
 
 <table>
   <tr>
@@ -198,7 +198,7 @@ class Fetehadin:
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fetehadin&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=3FB27F&icon_color=3FB27F" height="165" />
@@ -215,7 +215,7 @@ class Fetehadin:
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://fetehadin.com"><img src="https://img.shields.io/badge/Portfolio-2E7D5B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
